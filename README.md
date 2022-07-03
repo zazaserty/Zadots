@@ -18,7 +18,7 @@ This is a file which is used in Gentoo systems and has to be placed under /etc/p
 I use bspwm. It is quite easy to configure and the config file resides in ~/.config/bspwm/bspwmrc. If you are going to use my configuration file consider changing the line "setxkbmap es" since your keymap probably isn't es.
 
 # Bar
-The bar is made using polybar ofc. The configuration was taken from another github repo made by adi1090x (https://github.com/adi1090x) and you can find it here: https://github.com/adi1090x . Inside bspwmrc you can change "/home/youruser/.config/launch.sh --shapes" to launch.sh --shades or whatever there are many themes available. Remember to set the paths to YOUR home directory.
+The bar is made using polybar ofc. The configuration was taken from another github repo made by adi1090x (https://github.com/adi1090x) and you can find it here: https://github.com/adi1090x/polybar-themes . Inside bspwmrc you can change "/home/youruser/.config/launch.sh --shapes" to launch.sh --shades or whatever there are many themes available. Remember to set the paths to YOUR home directory.
 
 # Rofi
 The rofi theme is not included in the dotfiles since it comes with rofi. Just do Super+D (super is windows key) and launch the theme selector then select "blue" and do Alt+A.
