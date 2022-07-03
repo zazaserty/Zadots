@@ -30,7 +30,7 @@ Make sure all config files are executable you can do this with "chmod +x file" t
 
 Check that the scripts needed for keybinds are executable too (obvious).
 
-Never define ~/whatever/file to bspwm or sxhkd or any programd where to find a file, this is because most programs will get confused and will not translate "~/" to your home directory, instead do "/home/youruser/path/to/file".
+Never define "~/whatever/file" to bspwm or sxhkd or any programd where to find a file, this is because most programs will get confused and will not translate "~/" to your home directory, instead do "/home/youruser/path/to/file".
 
 If you use a firefox based browser there is a really nice theme that does well with our colorscheme https://addons.mozilla.org/en-US/firefox/addon/light-blue-theme/, but any blue theme will do. I also reccomend installing dark reader for your eyes sake https://darkreader.org/.
 
