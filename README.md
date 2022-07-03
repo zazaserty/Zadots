@@ -1,3 +1,4 @@
+![alt text](https://github.com/zazaserty/Za.dots/blob/main/rice.png)
 # Za.dots
 Dotfiles which I use in gentoo.
 They include my make.conf and polybar, rofi, etc.
