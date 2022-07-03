@@ -18,7 +18,7 @@ This is a file which is used in Gentoo systems and has to be placed under /etc/p
 I use bspwm. It is quite easy to configure and the config file resides in ~/.config/bspwm/bspwmrc. If you are going to use my configuration file consider changing the line "setxkbmap es" since your keymap probably isn't es.
 
 # Bar
-The bar is made using polybar ofc. The configuration was taken from another github repo made by adi1090x (https://github.com/adi1090x),you can find it here: https://github.com/adi1090x. Inside bspwmrc you can change "/home/youruser/.config/launch.sh --shapes" to launch.sh --shades or whatever there are many themes available. Remember to set the paths to YOUR home directory.
+The bar is made using polybar ofc. The configuration was taken from another github repo made by adi1090x (https://github.com/adi1090x) and you can find it here: https://github.com/adi1090x . Inside bspwmrc you can change "/home/youruser/.config/launch.sh --shapes" to launch.sh --shades or whatever there are many themes available. Remember to set the paths to YOUR home directory.
 
 # Rofi
 The rofi theme is not included in the dotfiles since it comes with rofi. Just do Super+D (super is windows key) and launch the theme selector then select "blue" and do Alt+A.
@@ -31,7 +31,7 @@ Make sure all config files are executable you can do this with "chmod +x file" t
 
 Check that the scripts needed for keybinds are executable too (obvious).
 
-Never define ~/whatever/file to bspwm or sxhkd or any programd where to find a file, this is because most programs will get confused and will not translate ~/ to your home directory, instead do "/home/youruser/path/to/file".
+Never define ~/whatever/file to bspwm or sxhkd or any program to tell it where to find a file, this is because most programs will get confused and will not translate ~/ to your home directory, instead do "/home/youruser/path/to/file".
 
 If you use a firefox based browser there is a really nice theme that does well with our colorscheme https://addons.mozilla.org/en-US/firefox/addon/light-blue-theme/, but any blue theme will do. I also reccomend installing dark reader for your eyes sake https://darkreader.org/.
 
