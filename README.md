@@ -34,6 +34,8 @@ Never define ~/whatever/file to bspwm or sxhkd or any programd where to find a f
 
 If you use a firefox based browser there is a really nice theme that does well with our colorscheme https://addons.mozilla.org/en-US/firefox/addon/light-blue-theme/, but any blue theme will do. I also reccomend installing dark reader for your eyes sake https://darkreader.org/.
 
+When tweaking your make.conf you might wanna add ccache functionality, I did not because it caused problems when building certains packages so be careful with that.
+
 This will work on any distro but you might need to change some paths and the names for some tools might change (this is unlikely to happen just be aware of it).
 
 Install dependencies:
@@ -47,3 +49,6 @@ Install dependencies:
   · Sxhkd
   
 And last but no least install flameshot to take screenshots easily, it is not required for this setup but it is a nice tool and already comes defined in my config (launch it with Super+Shift+S).
+
+# Known issues
+I am aware that the bar's power menu has weird white lines. This is due to a "recent" update in rofi's config syntax which the menu uses. It has an easy fix and you just have to change the config file, look it up on google (I will fix it, but I don't use that menu so idrc).
