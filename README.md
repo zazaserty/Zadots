@@ -48,6 +48,7 @@ Install dependencies:
   · Dash
   · Rofi
   · Sxhkd
+  · Setxkbmap
   
 And last but no least install flameshot to take screenshots easily, it is not required for this setup but it is a nice tool and already comes defined in my config (launch it with Super+Shift+S).
 
