@@ -6,5 +6,5 @@ My personal, and by consequence opinionated, gentoo setup. It uses wayland inste
 But well, enough of my preferences, let's list dependencies and such.
 
 # Dependencies and requirements
-These config files will probably work on any distro, but gentoo is a personal recommendation. It's a really simple and barebones setup.
+These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
