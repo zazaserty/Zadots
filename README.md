@@ -16,7 +16,7 @@ But well, enough of my preferences, let's list dependencies and such.
 ## Components and/or requirements
 These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
-**·Functional [wayland](https://wayland.freedesktop.org/) setup.**
+**·Functional [wayland](https://wayland.freedesktop.org/) setup, Gentoo steps [here](https://wiki.gentoo.org/wiki/Wayland).**
 
 **·[Hyprland](https://hyprland.org/) as the compositor.**
 
