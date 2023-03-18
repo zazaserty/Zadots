@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/last-commit/zazaserty/Za.dots?style=flat-square&logo=)
-![](https://img.shields.io/github/stars/zazaserty/Za.dots?style=flat-square&logo=)
+![](https://img.shields.io/github/last-commit/zazaserty/Zadots?style=flat-square&logo=)
+![](https://img.shields.io/github/stars/zazaserty/Zadots?style=flat-square&logo=)
   
 <div align="left">
   
