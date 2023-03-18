@@ -5,7 +5,9 @@
 
 ![](https://img.shields.io/github/last-commit/zazaserty/Za.dots?style=flat-square&logo=)
 ![](https://img.shields.io/github/stars/zazaserty/Za.dots?style=flat-square&logo=)
-
+  
+<div align="left">
+  
 # Za.dots
 My personal, and by consequence opinionated, gentoo rice that follows a dracula-ish colorscheme for ease on the eyes. It uses wayland instead of xorg, since it is more modern and cleaner on the codebase. I chose hyprland for the compositor, as it is simple to configure and pleasing by design even though it may not be as minimal as dwl or others. When it comes to the bar I use waybar because of convenience and out of habit, and I really recommend dunst as the notification manager since it's highly customizable and just works well.
 
