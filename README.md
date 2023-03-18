@@ -30,7 +30,7 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 **·[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
 
-**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme for foot, browser and email client.**
+**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client.**
 
 **·[Pipewire](https://pipewire.org/) as the audio server, no pulseaudio or alsa.**
 
