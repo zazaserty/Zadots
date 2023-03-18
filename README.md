@@ -13,7 +13,7 @@ My personal, and by consequence opinionated, gentoo rice that follows a dracula-
 
 But well, enough of my preferences, let's list dependencies and such.
 
-## Dependencies and requirements
+## Components and/or requirements
 These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
 **·Functional [wayland](https://wayland.freedesktop.org/) setup.**
