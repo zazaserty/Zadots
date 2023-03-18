@@ -42,6 +42,8 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 **·[Cbonsai](https://gitlab.com/jallbrit/cbonsai), a relaxing utility to grow little trees in your terminal emulator.**
 
+**·The [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension for firefox that allows to force a dark theme on all websites.**
+
 ## Credits
 
 Setups like these are made possible by the communities and developers behind these programs. It is an honor to be part of a movement like the opensource one where everyone helps each other out. Please support the developers behind the dependencies listed above.
