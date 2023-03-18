@@ -8,25 +8,31 @@ But well, enough of my preferences, let's list dependencies and such.
 ## Dependencies and requirements
 These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
-**·Functional wayland setup.**
+**·Functional [wayland](https://wayland.freedesktop.org/) setup.**
 
-**·Hyprland as the compositor.**
+**·[Hyprland](https://hyprland.org/) as the compositor.**
 
-**·Waybar as the status bar.**
+**·[Waybar](https://github.com/Alexays/Waybar) as the status bar.**
 
-**·Dunst as the notification daemon.**
+**·[Dunst](https://github.com/dunst-project/dunst) as the notification daemon.**
 
-**·Swaybg to set the wallpaper.**
+**·[Swaybg](https://github.com/swaywm/swaybg) to set the wallpaper.**
 
-**·Foot as the terminal emulator.**
+**·[Foot](https://github.com/r-c-f/foot) as the terminal emulator.**
 
-**·Wofi as the launcher.**
+**·[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
 
-**·Pywal and Pywalfox to create a cohesive colorscheme for foot.**
+**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme for foot, browser and email client.**
 
-**·Pipewire as the audio server, no pulseaudio or alsa.**
+**·[Pipewire](https://pipewire.org/) as the audio server, no pulseaudio or alsa.**
 
-**·Grim, Slurp and Swappy combo for screenshots.**
+**·[Grim](https://sr.ht/~emersion/grim/), [Slurp](https://github.com/emersion/slurp) and [Swappy](https://github.com/jtheoof/swappy) combo for screenshots.**
+
+**·[Nextcloud](https://nextcloud.com/) to sync my files to and from my selfhosted instance.**
+
+**·[Neofetch](https://github.com/dylanaraps/neofetch) to show some eye candy when the terminal starts up.**
+
+**·[Cbonsai](https://gitlab.com/jallbrit/cbonsai), a relaxing utility to grow little trees in your terminal emulator.**
 
 ## Credits
 
@@ -34,6 +40,10 @@ Setups like these are made possible by the communities and developers behind the
 
 It is also of utmost importance to acknowledge the creators of certain pieces used in this setup. Without them I would not have been able to put the pieces of this "puzzle" together. I modified some of the files a bit, but it is their work:
 
-**·The chad behind the waybar theme: https://github.com/coffebar/dotfiles.**
+[**·The chad behind the waybar theme.**](https://github.com/coffebar/dotfiles)
 
-**·**
+[**·The amazing maintainers of the dracula wofi theme.**](https://github.com/dracula/wofi)
+
+[**·The dracula enthusiasts that made the dunst theme.**](https://github.com/dracula/dunst)
+
+[**·The incredible dracula theme hub.**](https://draculatheme.com)
