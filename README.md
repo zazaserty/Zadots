@@ -1,8 +1,10 @@
 ![alt text](https://github.com/zazaserty/Za.dots/blob/main/atachments/rice.png)
 ![alt text](https://github.com/zazaserty/Za.dots/blob/main/atachments/ric3.png)
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/zazaserty/Za.dots)](https://github.com/zazaserty/Za.dots/commit/)
+<div align="center">
 
+![](https://img.shields.io/github/last-commit/zazaserty/Za.dots?style=flat-square&logo=)
+![](https://img.shields.io/github/stars/zazaserty/Za.dots?style=flat-square&logo=)
 
 # Za.dots
 My personal, and by consequence opinionated, gentoo rice that follows a dracula-ish colorscheme for ease on the eyes. It uses wayland instead of xorg, since it is more modern and cleaner on the codebase. I chose hyprland for the compositor, as it is simple to configure and pleasing by design even though it may not be as minimal as dwl or others. When it comes to the bar I use waybar because of convenience and out of habit, and I really recommend dunst as the notification manager since it's highly customizable and just works well.
