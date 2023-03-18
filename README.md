@@ -9,7 +9,7 @@
 <div align="left">
   
 # Za.dots
-My personal, and by consequence opinionated, gentoo rice that follows a dracula-ish colorscheme for ease on the eyes. It uses wayland instead of xorg, since it is more modern and cleaner on the codebase. I chose hyprland for the compositor, as it is simple to configure and pleasing by design even though it may not be as minimal as dwl or others. When it comes to the bar I use waybar because of convenience and out of habit, and I really recommend dunst as the notification manager since it's highly customizable and just works well.
+My personal, and by consequence opinionated, gentoo rice that follows a dracula-ish colorscheme for ease on the eyes. It uses wayland instead of xorg, since it is more modern and cleaner on the codebase. I chose hyprland for the compositor, as it is simple to configure and pleasing by design even though it may not be as minimal as dwl or others. When it comes to the bar I use waybar because of convenience and out of habit, and I really recommend dunst as the notification manager since it's highly customizable and just works well. Last but not least, I like doas for authentication a lot since I do not need all the options that sudo offers for a one-user system and the codebase is smaller.
 
 But well, enough of my preferences, let's list dependencies and such.
 
