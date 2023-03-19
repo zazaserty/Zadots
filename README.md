@@ -1,5 +1,5 @@
-![alt text](https://github.com/zazaserty/Za.dots/blob/main/atachments/rice.png)
-![alt text](https://github.com/zazaserty/Za.dots/blob/main/atachments/ric3.png)
+![alt text](https://github.com/zazaserty/Za.dots/blob/main/attachments/rice.png)
+![alt text](https://github.com/zazaserty/Za.dots/blob/main/attachments/ric3.png)
 
 <div align="center">
 
