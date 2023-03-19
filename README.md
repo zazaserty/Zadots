@@ -9,14 +9,16 @@
 <div align="left">
   
 # Za.dots
-My personal, and by consequence opinionated, gentoo rice that follows a dracula-ish colorscheme for ease on the eyes. It uses wayland instead of xorg, since it is more modern and cleaner on the codebase. I chose hyprland for the compositor, as it is simple to configure and pleasing by design even though it may not be as minimal as dwl or others. When it comes to the bar I use waybar because of convenience and out of habit, and I really recommend dunst as the notification manager since it's highly customizable and just works well. Last but not least, I like doas for authentication a lot since I do not need all the options that sudo offers for a one-user system and the codebase is smaller.
+My personal Gentoo setup is tailored to my preferences and incorporates a Dracula-inspired colorscheme that is easy on the eyes. To stay current and maintain a clean codebase, I have opted to use Wayland instead of Xorg. For the compositor, I have selected Hyprland for its simplicity and visually pleasing design, despite its slightly less minimalistic features compared to dwl or other options. In terms of the bar, I have found Waybar to be highly convenient and habitual. As for the notification manager, I highly recommend Dunst, due to its extensive customizability and seamless functionality.
 
-But well, enough of my preferences, let's list dependencies and such.
+Regarding authentication, I have found Doas to be an ideal option for a one-user system, as I do not require the full range of options offered by Sudo. Its smaller codebase is also a desirable factor.
+
+Now, let us move on to the dependencies and other related details.
 
 ## Components and/or requirements
 These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
-**·Functional [wayland](https://wayland.freedesktop.org/) setup, Gentoo steps [here](https://wiki.gentoo.org/wiki/Wayland).**
+**·Functional [Wayland](https://wayland.freedesktop.org/) setup, Gentoo steps [here](https://wiki.gentoo.org/wiki/Wayland).**
 
 **·[Hyprland](https://hyprland.org/) as the compositor.**
 
@@ -30,9 +32,9 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 **·[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
 
-**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client.**
+**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client. To use Pywalfox on Librewolf follow [this](https://github.com/Frewacom/pywalfox/issues/68)**
 
-**·[Pipewire](https://pipewire.org/) as the audio server, no pulseaudio or alsa.**
+**·[Pipewire](https://pipewire.org/) as the audio server, no Pulseaudio or Alsa.**
 
 **·[Grim](https://sr.ht/~emersion/grim/), [Slurp](https://github.com/emersion/slurp) and [Swappy](https://github.com/jtheoof/swappy) combo for screenshots.**
 
@@ -42,18 +44,18 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 **·[Cbonsai](https://gitlab.com/jallbrit/cbonsai), a relaxing utility to grow little trees in your terminal emulator.**
 
-**·The [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension for firefox that allows to force a dark theme on all websites.**
+**·The [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension for Librewolf, and Firefox obviously, that allows to force a dark theme on all websites.**
 
 ## Credits
 
-Setups like these are made possible by the communities and developers behind these programs. It is an honor to be part of a movement like the opensource one where everyone helps each other out. Please support the developers behind the dependencies listed above.
+The realization of my customized setup is owed to the dedicated communities and developers who have contributed their time and expertise to the open-source movement. It is truly an honor to be a part of such a collaborative and supportive community where individuals assist one another in achieving their objectives. As such, I urge everyone to support and recognize the developers responsible for the dependencies I have utilized.
 
-It is also of utmost importance to acknowledge the creators of certain pieces used in this setup. Without them I would not have been able to put the pieces of this "puzzle" together. I modified some of the files a bit, but it is their work:
+Furthermore, I feel it is crucial to acknowledge and appreciate the creators of the individual components utilized within my setup. It is thanks to their ingenuity and talent that I was able to construct the pieces of this "puzzle." While I have made minor modifications to some files, it is their original work that served as the foundation for my setup.
 
-[**·The chad behind the waybar theme.**](https://github.com/coffebar/dotfiles)
+[**·The chad behind the Waybar theme.**](https://github.com/coffebar/dotfiles)
 
-[**·The amazing maintainers of the dracula wofi theme.**](https://github.com/dracula/wofi)
+[**·The amazing maintainers of the Dracula Wofi theme.**](https://github.com/dracula/wofi)
 
-[**·The dracula enthusiasts that made the dunst theme.**](https://github.com/dracula/dunst)
+[**·The dracula enthusiasts that made the Dunst theme.**](https://github.com/dracula/dunst)
 
-[**·The incredible dracula theme hub.**](https://draculatheme.com)
+[**·The incredible Dracula Theme Hub.**](https://draculatheme.com)
