@@ -32,7 +32,7 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 **·[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
 
-**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client. To use Pywalfox on Librewolf follow [this](https://github.com/Frewacom/pywalfox/issues/68)**
+**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client. To use Pywalfox on Librewolf follow [this](https://github.com/Frewacom/pywalfox/issues/68).**
 
 **·[Pipewire](https://pipewire.org/) as the audio server, no Pulseaudio or Alsa.**
 
