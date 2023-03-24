@@ -18,33 +18,33 @@ Now, let us move on to the dependencies and other related details.
 ## Components and/or requirements
 These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
 
-**·Functional [Wayland](https://wayland.freedesktop.org/) setup, Gentoo steps [here](https://wiki.gentoo.org/wiki/Wayland).**
+- **Functional [Wayland](https://wayland.freedesktop.org/) setup, Gentoo steps [here](https://wiki.gentoo.org/wiki/Wayland).**
 
-**·[Hyprland](https://hyprland.org/) as the compositor.**
+- **[Hyprland](https://hyprland.org/) as the compositor.**
 
-**·[Waybar](https://github.com/Alexays/Waybar) as the status bar.**
+- **[Waybar](https://github.com/Alexays/Waybar) as the status bar.**
 
-**·[Dunst](https://github.com/dunst-project/dunst) as the notification daemon.**
+- **[Dunst](https://github.com/dunst-project/dunst) as the notification daemon.**
 
-**·[Swaybg](https://github.com/swaywm/swaybg) to set the wallpaper.**
+- **[Swaybg](https://github.com/swaywm/swaybg) to set the wallpaper.**
 
-**·[Foot](https://github.com/r-c-f/foot) as the terminal emulator.**
+- **[Foot](https://github.com/r-c-f/foot) as the terminal emulator.**
 
-**·[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
+- **[Wofi](https://hg.sr.ht/~scoopta/wofi) as the launcher.**
 
-**·[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client. To use Pywalfox on Librewolf follow [this](https://github.com/Frewacom/pywalfox/issues/68).**
+- **[Pywal](https://github.com/dylanaraps/pywal) and [Pywalfox](https://github.com/Frewacom/pywalfox) to create a cohesive colorscheme between the terminal, browser and email client. To use Pywalfox on Librewolf follow [this](https://github.com/Frewacom/pywalfox/issues/68).**
 
-**·[Pipewire](https://pipewire.org/) as the audio server, no Pulseaudio or Alsa.**
+- **[Pipewire](https://pipewire.org/) as the audio server, no Pulseaudio or Alsa.**
 
-**·[Grim](https://sr.ht/~emersion/grim/), [Slurp](https://github.com/emersion/slurp) and [Swappy](https://github.com/jtheoof/swappy) combo for screenshots.**
+- **[Grim](https://sr.ht/~emersion/grim/), [Slurp](https://github.com/emersion/slurp) and [Swappy](https://github.com/jtheoof/swappy) combo for screenshots.**
 
-**·[Nextcloud](https://nextcloud.com/) to sync my files to and from my selfhosted instance.**
+- **[Nextcloud](https://nextcloud.com/) to sync my files to and from my selfhosted instance.**
 
-**·[Neofetch](https://github.com/dylanaraps/neofetch) to show some eye candy when the terminal starts up.**
+- **[Neofetch](https://github.com/dylanaraps/neofetch) to show some eye candy when the terminal starts up.**
 
-**·[Cbonsai](https://gitlab.com/jallbrit/cbonsai), a relaxing utility to grow little trees in your terminal emulator.**
+- **[Cbonsai](https://gitlab.com/jallbrit/cbonsai), a relaxing utility to grow little trees in your terminal emulator.**
 
-**·The [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension for Librewolf, and Firefox obviously, that allows to force a dark theme on all websites.**
+- **The [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) extension for Librewolf, and Firefox obviously, that allows to force a dark theme on all websites.**
 
 ## Credits
 
@@ -52,10 +52,10 @@ The realization of my customized setup is owed to the dedicated communities and 
 
 Furthermore, I feel it is crucial to acknowledge and appreciate the creators of the individual components utilized within my setup. It is thanks to their talent that I was able to construct the pieces of this "puzzle." While I have made minor modifications to some files, it is their original work that served as the foundation for my setup.
 
-[**·The chad behind the Waybar theme.**](https://github.com/coffebar/dotfiles)
+- [**The chad behind the Waybar theme.**](https://github.com/coffebar/dotfiles)
 
-[**·The amazing maintainers of the Dracula Wofi theme.**](https://github.com/dracula/wofi)
+- [**The amazing maintainers of the Dracula Wofi theme.**](https://github.com/dracula/wofi)
 
-[**·The dracula enthusiasts that made the Dunst theme.**](https://github.com/dracula/dunst)
+- [**The dracula enthusiasts that made the Dunst theme.**](https://github.com/dracula/dunst)
 
-[**·The incredible Dracula Theme Hub.**](https://draculatheme.com)
+- [**The incredible Dracula Theme Hub.**](https://draculatheme.com)
