@@ -50,9 +50,9 @@ These config files will probably work on any distro, but gentoo is a personal re
 
 The realization of my customized setup is owed to the dedicated communities and developers who have contributed their time and expertise to the open-source movement. It is truly an honor to be a part of such a collaborative and supportive community where individuals assist one another in achieving their objectives. As such, I urge everyone to support and recognize the developers responsible for the dependencies I have utilized.
 
-Furthermore, I feel it is crucial to acknowledge and appreciate the creators of the individual components utilized within my setup. It is thanks to their talent that I was able to construct the pieces of this "puzzle." While I have made minor modifications to some files, it is their original work that served as the foundation for my setup.
+Furthermore, I feel it is crucial to acknowledge and appreciate the creators of the individual components utilized within my setup. It is thanks to their talent that I was able to construct the pieces of this "puzzle." While I have made modifications to their files, it is their original work that served as the foundation and inspiration for my setup.
 
-- [**The chad behind the Waybar theme.**](https://github.com/coffebar/dotfiles)
+- [**The original Waybar Dracula theme.**](https://github.com/dracula/waybar)
 
 - [**The amazing maintainers of the Dracula Wofi theme.**](https://github.com/dracula/wofi)
 
